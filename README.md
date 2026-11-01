@@ -1,4 +1,4 @@
-# agentdata-run
+# AgentData
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agentdata-run is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agentdata.run/
+AgentData provides a platform that aggregates company data for AI agents and growth teams, showing what a company does, the tools it runs, how to reach it, and recent changes. Built by Nick and Duda Timms in the UK, the service offers live data, pricing information, documentation, and APIs, with a focus on transparency and data quality.
+
+**Areas:** Company
+
+## AgentData on APIs.io
+
+Everything profiled for AgentData is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentdata-run/](https://apis.io/providers/agentdata-run/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [AgentData API](https://apis.io/apis/agentdata-run/agentdata-api/) — REST API providing company data for AI agents, including company profiles, tools, and contacts.
+- [AgentData API](https://apis.io/apis/agentdata-run/agentdata-run-api/) — AgentData API as documented publicly: 11 operations. Contract generated from the documentation by API Evangelist (2026-11-01); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AgentData API Rules](https://apis.io/rules/agentdata-run/agentdata-run-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentdata Run Domain Security](https://apis.io/security/agentdata-run/agentdata-run-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agentdata Run Plans Pricing](https://apis.io/plans/agentdata-run/agentdata-run-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentdata.run/)
+- [Documentation](https://useagentdata.com/docs)
+- [Pricing](https://useagentdata.com/pricing)
+- [Sign up](https://useagentdata.com/signup)
+- [Blog](https://useagentdata.com/blog)
+- [Terms of service](https://useagentdata.com/legal/terms)
+- [Privacy policy](https://useagentdata.com/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 44.7** — developing · rubric 0.25.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 44.6 |
+| Contract quality | 43.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 73.2 |
+
+**Agent readiness 36.1** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentdata-run/](https://apis.io/providers/agentdata-run/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AgentData: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentdata-run/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
